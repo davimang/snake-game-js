@@ -134,6 +134,7 @@ function growSnake(){
 
 function displayScore(){
     gameScore.innerHTML = score;
+    console.log("Change branch 2");
 }
 
 

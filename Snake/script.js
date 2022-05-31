@@ -129,7 +129,7 @@ function growSnake(){
     else{
         snake.push({x:tail.x, y:tail.y - 10});
     }
-
+    console.log("change branch 1");
 }
 
 function displayScore(){
